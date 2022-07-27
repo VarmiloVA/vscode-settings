@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "GitHub Dark Default",
+    "editor.mouseWheelZoom": true,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false,
+        "python": true
+    },
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.defaultFormatter": "GitHub.copilot",
+    "workbench.preferredDarkColorTheme": "GitHub Dark Default",
+    "workbench.preferredHighContrastColorTheme": "GitHub Dark High Contrast",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.cursorBlinking": "phase",
+    "editor.fontFamily": "'Cascadia Code semibold', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "workbench.sideBar.location": "right"
+}
